@@ -1,0 +1,14 @@
+.single-input {
+    display: flex;
+    font-size: 1.5rem;
+}
+
+.single-input label {
+    display: inline-block;
+    width: 200px;
+}
+
+input {
+    width: 250px;
+    border-radius: 8px;
+}

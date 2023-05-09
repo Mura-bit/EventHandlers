@@ -1,0 +1,19 @@
+.large {
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #1b38df;
+    color: #fefefe;
+    font-size: 1.5rem;
+    margin-top: 15px;
+    margin-left: 180px;
+}
+
+.medium {
+    width: 100px;
+}
+
+.small {
+    width: 60px;
+}
+
